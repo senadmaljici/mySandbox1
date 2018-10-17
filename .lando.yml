@@ -1,4 +1,4 @@
-name: my-sandbox-1
+name: lando-playground-app
 recipe: drupal8
 config:
   webroot: web
